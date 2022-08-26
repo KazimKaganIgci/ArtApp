@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kazim/AndroidStudioProjects/ArtApp/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/kazim/AndroidStudioProjects/ArtApp/app/src/main/res/layout/art_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/kazim/AndroidStudioProjects/ArtApp/app/src/main/res/layout/art_row.xml" value="0.33" />
+        <entry key="..\:/Users/kazim/AndroidStudioProjects/ArtApp/app/src/main/res/layout/artdetails_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/kazim/AndroidStudioProjects/ArtApp/app/src/main/res/layout/artimage_row.xml" value="0.1" />
+        <entry key="..\:/Users/kazim/AndroidStudioProjects/ArtApp/app/src/main/res/layout/artimageapi_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/kazim/AndroidStudioProjects/ArtApp/app/src/main/res/layout/artrow_layout.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/kazim/AndroidStudioProjects/ArtApp/app/src/main/res/layout/row_layout.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/kazim/AndroidStudioProjects/ArtApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2945" />
+        <entry key="..\:/Users/kazim/AndroidStudioProjects/ArtApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2945" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
